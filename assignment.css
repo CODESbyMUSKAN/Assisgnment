@@ -1,0 +1,13 @@
+img{
+    height: 40px;
+    width: 110px;
+    border: solid 2px black;
+}
+#head{
+    background-color: tomato;
+    padding: 15px;
+    display: flex;
+}
+.header{
+    padding: 10px;
+}
